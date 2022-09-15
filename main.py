@@ -6,7 +6,7 @@
 # print(type(x))
 
 # Float.
-# x = 0.1
+x = 0.1
 # print(x)
 # print(type(x))
 
