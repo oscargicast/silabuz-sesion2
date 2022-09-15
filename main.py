@@ -21,9 +21,9 @@
 # Booleans.
 # print('hola' == 'chau')
 # print('hola' != 'chau')
-# print(1 == 2)
-# print(1 + 3 == 2 + 2)
-# print(1.4 + 1.6 == 3)
+print(1 == 2)
+print(1 + 3 == 2 + 2)
+print(1.4 + 1.6 == 3)
 # print(99/2)
 # print(99//2)
 # print(9 / 2)
