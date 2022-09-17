@@ -72,4 +72,4 @@ edades_clase = {'rodmel': 20, 'hermez': 18, 'jose': 30}
 
 print(edades_clase['jose'])
 
-edades_clase
+print(edades_clase)
